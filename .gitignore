@@ -137,3 +137,5 @@ cython_debug/
 
 # JupyterLab
 .jupyterlab-config
+.DS_Store
+qr_codes/*.png

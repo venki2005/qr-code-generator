@@ -148,7 +148,9 @@ Download and install [Python for Windows](https://www.python.org/downloads/).
 ```bash
 python3 --version
 ```
+
 or
+
 ```bash
 python --version
 ```
@@ -230,19 +232,19 @@ Then submit the GitHub repository link as instructed.
 
 # 🔥 Useful Commands Cheat Sheet
 
-| Action                         | Command                                          |
-| ------------------------------- | ------------------------------------------------ |
-| Install Homebrew (Mac)          | `/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"` |
-| Install Git                     | `brew install git` or Git for Windows installer |
-| Configure Git Global Username  | `git config --global user.name "Your Name"`      |
-| Configure Git Global Email     | `git config --global user.email "you@example.com"` |
-| Clone Repository                | `git clone <repo-url>`                          |
-| Create Virtual Environment     | `python3 -m venv venv`                           |
-| Activate Virtual Environment   | `source venv/bin/activate` / `venv\Scripts\activate.bat` |
-| Install Python Packages        | `pip install -r requirements.txt`               |
-| Build Docker Image              | `docker build -t <image-name> .`                |
-| Run Docker Container            | `docker run -it --rm <image-name>`               |
-| Push Code to GitHub             | `git add . && git commit -m "message" && git push` |
+| Action                        | Command                                                                                           |
+| ----------------------------- | ------------------------------------------------------------------------------------------------- |
+| Install Homebrew (Mac)        | `/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"` |
+| Install Git                   | `brew install git` or Git for Windows installer                                                   |
+| Configure Git Global Username | `git config --global user.name "Your Name"`                                                       |
+| Configure Git Global Email    | `git config --global user.email "you@example.com"`                                                |
+| Clone Repository              | `git clone <repo-url>`                                                                            |
+| Create Virtual Environment    | `python3 -m venv venv`                                                                            |
+| Activate Virtual Environment  | `source venv/bin/activate` / `venv\Scripts\activate.bat`                                          |
+| Install Python Packages       | `pip install -r requirements.txt`                                                                 |
+| Build Docker Image            | `docker build -t <image-name> .`                                                                  |
+| Run Docker Container          | `docker run -it --rm <image-name>`                                                                |
+| Push Code to GitHub           | `git add . && git commit -m "message" && git push`                                                |
 
 ---
 
@@ -262,3 +264,11 @@ Then submit the GitHub repository link as instructed.
 - [Python Downloads](https://www.python.org/downloads/)
 - [Docker Desktop](https://www.docker.com/products/docker-desktop/)
 - [GitHub SSH Setup Guide](https://docs.github.com/en/authentication/connecting-to-github-with-ssh)
+
+## My GITHub REPOSITORY
+
+![GitHub Repo](qr_codes/QRCode_20261021023557.png "My QR Code Link")
+
+## My DockerHub Image
+
+![Docker QR Image](qr_codes/QRCode_20261021023026.png "My QR Code Link")
